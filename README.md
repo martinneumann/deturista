@@ -4,5 +4,5 @@ Find and plan your local walking excursions.
 # Tech stack
 
 * SvelteKit
-* Tailwaind
+* Tailwind
 * AWS CDK
